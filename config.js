@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗', '🩷'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest girl in the world :3 💝💖💝💓",
+        title: "Yay! I'm the luckiest girl in the world :3 💝💖💝",
         message: "Now come get your gift, a million hugs and all the mwah mwahs!",
         emojis: "🎁💖💝💋❤️💕💗🩷"  // These will bounce around
     },
